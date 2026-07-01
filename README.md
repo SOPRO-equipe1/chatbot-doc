@@ -1,9 +1,6 @@
  <div align="center">
 
-
 <img src="https://github.com/SOPRO-equipe1/.github/blob/main/profile/logo.png" alt="SOPRO Logo" width="250">
-
-
 
 # 🌬️ Soprinho — O assistente virtual do projeto 
 
@@ -27,7 +24,6 @@ ele se abastece puramente com o melhor café de Java!
 ## Mascote
 
 
-<!-- COLOQUE O SEU GIF AQUI -->
 <img src="https://github.com/SOPRO-equipe1/chatbot-doc/blob/main/chatjava.png" alt="SOPRO Logo" width="400">
 
 
@@ -74,4 +70,7 @@ A lógica está concentrada no arquivo `ConhecimentoService.java`, que gerencia:
 
 ---
 
-> ✨ **Nota do Projeto:** O assistente e os módulos do projeto SOPRO estão em fase ativa de validação para o Demo Day!
+<div align="center">
+Desenvolvido com 💙 e muito café pela equipe Sopro - Instituto PROA, 2026
+</div>
+
