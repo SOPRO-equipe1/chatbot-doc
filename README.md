@@ -23,7 +23,6 @@ ele se abastece puramente com o melhor café de Java!
 É o calor de uma boa xícara que dá a ele o foco necessário para ouvir com atenção e responder sempre com um sorriso e um abraço em forma de palavras.
 
 ---
----
 
 ## Mascote
 
