@@ -7,8 +7,22 @@
 
 # 🌬️ Soprinho — O assistente virtual do projeto 
 
-O **Soprinho** é o assistente virtual oficial, carinhoso e acolhedor desenvolvido para interagir com os usuários diretamente na plataforma do projeto. Ele foi projetado para responder a dúvidas de forma humana, empática e acessível, traduzindo termos técnicos complexos em analogias simples do dia a dia.
+Nas exuberantes e místicas terras da Indonésia, em meio à vibrante natureza das Ilhas de Java,  
+nasceu um leãozinho muito especial chamado **Soprinho**.
 
+Diferente dos outros leões da savana que usavam seus rugidos para impor medo,  
+o maior desejo de Soprinho sempre foi encontrar uma forma de aproximar as pessoas.
+
+Ele percebeu que o mundo estava cheio de corações cheios de sentimentos, mas com grandes dificuldades de comunicação.  
+Foi então que ele descobriu o seu verdadeiro propósito: ser uma ponte de carinho, clareza e empatia.
+
+Com seu sopro suave e sua capa acolhedora, ele transforma mensagens complexas e jargões difíceis em palavras simples, cheias de afeto e fáceis de entender.
+
+Mas para manter toda essa energia positiva, paciência e doçura no coração, o Soprinho tem um pequeno segredo:  
+ele se abastece puramente com o melhor café de Java!  
+É o calor de uma boa xícara que dá a ele o foco necessário para ouvir com atenção e responder sempre com um sorriso e um abraço em forma de palavras.
+
+---
 ---
 
 ## Mascote
