@@ -15,7 +15,7 @@ O **Soprinho** é o assistente virtual oficial, carinhoso e acolhedor desenvolvi
 
 
 <!-- COLOQUE O SEU GIF AQUI -->
-![Demonstração do Soprinho](chatjava.gif)
+<img src="https://github.com/SOPRO-equipe1/chatbot-doc/blob/main/chatjava.png" alt="SOPRO Logo" width="400">
 
 
 ---
