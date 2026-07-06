@@ -33,10 +33,10 @@ ele se abastece puramente com o melhor café de Java!
 
 O motor de inteligência e a API de comunicação do Soprinho foram integrados utilizando o seguinte ecossistema backend:
 
- **Java 17** & **Spring Boot**: Estrutura base da aplicação.
+ **Java 21** & **Spring Boot**: Estrutura base da aplicação.
  **Spring RestClient**: Utilizado para realizar chamadas HTTP assíncronas e robustas para a API remota.
  **Ollama OSS**: Infraestrutura de LLM (Large Language Model) utilizada para processar os prompts utilizando o modelo `gpt-oss:120b`.
- **Spring Data JPA / PostgreSQL**: Camada de persistência que gerencia e busca o banco de conhecimentos estruturado.
+ **Spring Data JPA / MySQL**: Camada de persistência que gerencia e busca o banco de conhecimentos estruturado.
  **Gson (Google)**: Biblioteca para o tratamento e parsing seguro do JSON bruto retornado pela API.
 
 ---
