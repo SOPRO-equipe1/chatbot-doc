@@ -2,6 +2,8 @@
 
 <img src="https://github.com/SOPRO-equipe1/.github/blob/main/profile/logo.png" alt="SOPRO Logo" width="250">
 
+### *Sua voz, seu sopro.*
+
 # 🌬️ Soprinho — O assistente virtual do projeto 
 
 Nas exuberantes e místicas terras da Indonésia, em meio à vibrante natureza das Ilhas de Java,  
